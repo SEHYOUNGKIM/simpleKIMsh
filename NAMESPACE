@@ -3,3 +3,4 @@
 export(add_fun)
 export(myname)
 export(whoAreYou)
+export(Rprogram_2022)
