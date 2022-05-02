@@ -1,0 +1,3 @@
+myname <- function(){
+  print("kimSeHyoung")
+}
